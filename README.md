@@ -20,4 +20,4 @@ The dataset contains **8,500+ sales records across multiple attributes**, includ
 - Observed patterns influencing **product demand**.
 
 ## Dashboard
-![Blinkit Dashboard](Blinkit_Dashboard.png)
+![Blinkit Dashboard](PNG/Blinkit_Dashboard.png)
